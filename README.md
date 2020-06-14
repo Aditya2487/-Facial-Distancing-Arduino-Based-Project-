@@ -11,7 +11,7 @@ When your hand approaches your face, the tag and the sensor come in close proxim
 The RFID Sensor we are using is the RC522 based RFID sensor which follows the SPI communication protocol and hence the pin connections to the arduino pro mini are :-
 
 Sensor Pin   Pro Mini Pin
----------------------------
+
 RST              9 
 SDA(SS)         10
 MOSI            11
