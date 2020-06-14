@@ -22,5 +22,7 @@ MISO       -->     12
 
 SCK       -->      13
 
+**Important :- For the code to work, do install the RC522 Library in the Arduino IDE by going to Tools > Manage Libraries > Search For The RC522 Library and click install.
+
 The MP1854 Step Down Converter is used to bring down the voltage to 5V.
 You can simply upload the code and make the pin connections as given in the circuit diagram. Fritzing files have also been attached.
