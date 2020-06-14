@@ -1,0 +1,12 @@
+
+1. RFID Reader/Writer RC522 SPI S50 with RFID Card and Tag :-
+https://robu.in/product/mifare-rfid-readerwriter-13-56mhz-rc522-spi-s50-fudan-card-and-keychain/
+
+2. Arduino Pro Mini :-
+https://robu.in/product/pro-mini-atmega328p-5v-16m-updated-version/
+
+3. Mini MP1584 DC-DC 3A Adjustable Buck module
+https://robu.in/product/mini-mp1584-dc-dc-adjustable-buck-module-3a/
+
+4.720 Magnetic Micro Coreless Motor + 55 MM Propeller for Micro Quadcopters (The propeller isn't used. You can find any pager motor that vibrates and it would work just fine.)
+https://robu.in/product/720-magnetic-micro-coreless-motor-55-mm-propeller-for-micro-quadcopters-2/
