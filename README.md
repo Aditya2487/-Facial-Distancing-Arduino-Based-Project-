@@ -13,9 +13,13 @@ The RFID Sensor we are using is the RC522 based RFID sensor which follows the SP
 Sensor Pin   Pro Mini Pin
 
 RST              9 
+
 SDA(SS)         10
+
 MOSI            11
+
 MISO            12
+
 SCK             13
 
 The MP1854 Step Down Converter is used to bring down the voltage to 5V.
