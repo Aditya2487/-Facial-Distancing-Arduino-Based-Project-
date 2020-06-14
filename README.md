@@ -10,17 +10,17 @@ When your hand approaches your face, the tag and the sensor come in close proxim
 
 The RFID Sensor we are using is the RC522 based RFID sensor which follows the SPI communication protocol and hence the pin connections to the arduino pro mini are :-
 
-Sensor Pin   Pro Mini Pin
+Sensor Pin  --> Pro Mini Pin
 
-RST              9 
+RST     -->         9 
 
-SDA(SS)         10
+SDA(SS)    -->     10
 
-MOSI            11
+MOSI      -->      11
 
-MISO            12
+MISO       -->     12
 
-SCK             13
+SCK       -->      13
 
 The MP1854 Step Down Converter is used to bring down the voltage to 5V.
 You can simply upload the code and make the pin connections as given in the circuit diagram. Fritzing files have also been attached.
